@@ -1,7 +1,8 @@
 
+# material calendar sample
 
--- added this example due to original did not work, finally had issue with ng compiler and dependency in npm, but now it works on my pc
--- to start call *ng serve --open*
+* added this example due to original did not work, finally had issue with ng compiler and dependency in npm, but now it works on my pc
+* to start call *ng serve --open*
 
 
 # original README below
